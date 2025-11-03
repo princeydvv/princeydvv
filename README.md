@@ -83,3 +83,12 @@ I'm Prince from Indore, MP 🇮🇳 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+ML+Learner+%F0%9F%A4%96;MCA+Student+from+Manipal+University+Jaipur;Data+Science+is+my+Passion+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
+
+<h3 align="center">📫 Contact Me</h3>
+
+<div align="center">
+  <a href="mailto:princeyadav5018@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-princeyadav5018%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email badge" />
+  </a>
+</div>
+
